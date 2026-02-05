@@ -1,0 +1,6 @@
+id,name,sales,date_of_birth,category,age,sales_str,dob_year,dob_month,dob_day,name_category,sales_rolling_mean,masked_name
+1,Alice,500.0,1990-01-01,A,36,500.0,1990,01,01,Alice (A),,A****
+2,Bob,200.0,1985-05-12,B,40,200.0,1985,05,12,Bob (B),,B**
+3,Charlie,800.0,2000-07-19,A,25,800.0,2000,07,19,Charlie (A),500.0,C******
+4,David,625.0,1992-03-30,C,33,625.0,1992,03,30,David (C),541.6666666666666,D****
+5,Eve,1000.0,1988-10-21,B,37,1000.0,1988,10,21,Eve (B),808.3333333333334,E**
